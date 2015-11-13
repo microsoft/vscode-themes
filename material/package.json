@@ -1,0 +1,33 @@
+{
+	"name": "Theme-MaterialKit",
+	"displayName" : "Material Theme Kit",
+	"description": "Material themes for VS Code. Based on the TextMate themes.",
+	"version": "0.0.1",
+	"publisher": "seanmcbreen",
+	"engines": {
+		"vscode": "0.10.x"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon":"icon.svg",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Material",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Material-Theme.tmTheme"
+			},
+			{
+				"label": "Material Night Eighties",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Material-Theme-Darker.tmTheme"
+			},
+			{
+				"label": "Material Night",
+				"uiTheme": "vs",
+				"path": "./themes/Material-Theme-Lighter.tmTheme"
+			}
+		]
+	}
+}

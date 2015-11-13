@@ -1,0 +1,39 @@
+{
+	"name": "Theme-TomorrowKit",
+	"displayName" : "Tomorrow and Tomorrow Night Theme Kit",
+	"description": "Additional Tomorrow and Tomorrow Night themes for VS Code. Based on the TextMate themes.",
+	"version": "0.0.3",
+	"publisher": "seanmcbreen",
+	"engines": {
+		"vscode": "0.10.x"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon":"icon.svg",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Tomorrow",
+				"uiTheme": "vs",
+				"path": "./themes/Tomorrow.tmTheme"
+			},
+			{
+				"label": "Tomorrow Night Eighties",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Tomorrow_Night_Eighties.tmTheme"
+			},
+			{
+				"label": "Tomorrow Night",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Tomorrow_Night.tmTheme"
+			},
+
+			{
+				"label": "Tomorrow Night Bright",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Tomorrow_Night_Bright.tmTheme"
+			}
+		]
+	}
+}

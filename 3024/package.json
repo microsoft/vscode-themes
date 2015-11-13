@@ -1,0 +1,28 @@
+{
+	"name": "Theme-3024Kit",
+	"displayName" : "3024 Theme Kit",
+	"description": "3024 Themes for VS Code based on the TextMate theme.",
+	"version": "0.0.1",
+	"publisher": "seanmcbreen",
+	"engines": {
+		"vscode": "0.10.x"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon":"icon.svg",
+	"contributes": {
+		"themes": [
+			{
+				"label": "3024 Day",
+				"uiTheme": "vs",
+				"path": "./themes/3024_Day.tmTheme"
+			},
+			{
+				"label": "3024 Night",
+				"uiTheme": "vs-dark",
+				"path": "./themes/3024_Night.tmTheme"
+			}
+		]
+	}
+}
