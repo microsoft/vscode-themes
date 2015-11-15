@@ -2,7 +2,7 @@
 	"name": "Theme-PredawnKit",
 	"displayName" : "Predawn Theme Kit",
 	"description": "Predawn themes for VS Code. Based on the TextMate themes.",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "ms-vscode",
 	"engines": {
 		"vscode": "0.10.x"
@@ -24,7 +24,7 @@
 				"path": "./themes/predawn-gf-markdown.tmTheme"
 			},
 			{
-				"label": "predawn Markdown",
+				"label": "Predawn Markdown",
 				"uiTheme": "vs-dark",
 				"path": "./themes/predawn-markdown.tmTheme"
 			}
