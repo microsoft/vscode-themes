@@ -2,8 +2,8 @@
 	"name": "Theme-MarkdownKit",
 	"displayName" : "Markdown Theme Kit",
 	"description": "Theme Kit for VS Code optimized for Markdown. Based on the TextMate themes.",
-	"version": "0.0.2",
-	"publisher": "seanmcbreen",
+	"version": "0.0.1",
+	"publisher": "ms-vscode",
 	"engines": {
 		"vscode": "0.10.x"
 	},
