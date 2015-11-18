@@ -6,7 +6,3 @@ A set of themes for VS Code:
 * Markdown Editor - Focus
 * Markdown Editor - Yellow
 
-Based on https://github.com/SublimeText-Markdown/MarkdownEditing
-
-## License
-MIT

@@ -2,7 +2,7 @@
 	"name": "Theme-TomorrowKit",
 	"displayName" : "Tomorrow and Tomorrow Night Theme Kit",
 	"description": "Additional Tomorrow and Tomorrow Night themes for VS Code. Based on the TextMate themes.",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"publisher": "ms-vscode",
 	"engines": {
 		"vscode": "0.10.x"

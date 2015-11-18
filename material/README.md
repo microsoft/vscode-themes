@@ -5,6 +5,3 @@ A set of themes based on:
 * Material Darker
 * Material Ligher
 
-
-## License
-MIT

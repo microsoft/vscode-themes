@@ -2,5 +2,4 @@
 
 An additional theme for VS Code.
 
-## License
-MIT
+Based on http://colorsublime.com/theme/download/42830 

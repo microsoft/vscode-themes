@@ -6,6 +6,3 @@ A set of themes based on:
 * Tomorrow Night
 * Tomorrow Night Bright
 
-
-## License
-MIT
