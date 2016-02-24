@@ -136,7 +136,8 @@
 				<string>#8959A8</string>
 			</dict>
 		</dict>
-		<dict>
+		<!-- No support for background, see https://github.com/Microsoft/vscode/issues/3429 -->
+		<!--<dict>
 			<key>name</key>
 			<string>Invalid</string>
 			<key>scope</key>
@@ -150,7 +151,7 @@
 				<key>foreground</key>
 				<string>#FFFFFF</string>
 			</dict>
-		</dict>
+		</dict>-->
 		<dict>
 			<key>name</key>
 			<string>Separator</string>
@@ -159,12 +160,13 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#4271AE</string>
+				<string>#E0E0E0</string>
 				<key>foreground</key>
-				<string>#FFFFFF</string>
+				<string>#373B41</string>
 			</dict>
 		</dict>
-		<dict>
+		<!-- No support for background, see https://github.com/Microsoft/vscode/issues/3429 -->
+		<!--<dict>
 			<key>name</key>
 			<string>Deprecated</string>
 			<key>scope</key>
@@ -178,7 +180,7 @@
 				<key>foreground</key>
 				<string>#FFFFFF</string>
 			</dict>
-		</dict>
+		</dict>-->
 	</array>
 	<key>uuid</key>
 	<string>82CCD69C-F1B1-4529-B39E-780F91F07604</string>
