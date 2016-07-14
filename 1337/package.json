@@ -2,7 +2,7 @@
 	"name": "Theme-1337",
 	"displayName" : "1337 Theme",
 	"description": "1337 Theme for VS Code based on the TextMate theme.",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"publisher": "ms-vscode",
 	"engines": {
 		"vscode": "0.10.x"

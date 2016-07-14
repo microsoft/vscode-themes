@@ -2,7 +2,7 @@
 	"name": "Theme-MaterialKit",
 	"displayName" : "Material Theme Kit",
 	"description": "Material themes for VS Code. Based on the TextMate themes.",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"publisher": "ms-vscode",
 	"engines": {
 		"vscode": "0.10.x"
