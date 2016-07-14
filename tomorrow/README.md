@@ -4,17 +4,16 @@ A set of themes based on the tomorrow themes from [Colorsublime/Colorsublime-The
 
 ## Tomorrow
 
-[](images/tomorrow-preview.png)
+![](images/tomorrow-preview.png)
 
 ## Tomorrow Night
 
-[](images/tomorrow-night-preview.png)
+![](images/tomorrow-night-preview.png)
 
 ## Tomorrow Night Bright
 
-[](images/tomorrow-night-bright-preview.png)
+![](images/tomorrow-night-bright-preview.png)
 
 ## Tomorrow Night Eighties
 
-[](images/tomorrow-night-eighties-preview.png)
-
+![](images/tomorrow-night-eighties-preview.png)
