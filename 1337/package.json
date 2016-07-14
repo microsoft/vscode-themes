@@ -10,6 +10,24 @@
 	"categories": [
 		"Themes"
 	],
+	"license": "SEE LICENSE IN LICENSE.txt",
+	"bugs": {
+		"url": "https://github.com/Microsoft/vscode-themes/issues"
+	},
+	"homepage": "https://github.com/Microsoft/vscode-themes/blob/master/1337/README.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Microsoft/vscode-themes.git"
+	},
+	"license": "SEE LICENSE IN LICENSE.txt",
+	"bugs": {
+		"url": "https://github.com/Microsoft/vscode-themes/issues"
+	},
+	"homepage": "https://github.com/Microsoft/vscode-themes/blob/master/tomorrow/README.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Microsoft/vscode-themes.git"
+	},
 	"icon":"icon.svg",
 	"contributes": {
 		"themes": [
