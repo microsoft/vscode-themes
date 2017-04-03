@@ -18,3 +18,5 @@ A set of themes based on [SublimeText-Markdown/MarkdownEditing](https://github.c
 
 ![](https://raw.githubusercontent.com/Microsoft/vscode-themes/master/markdown-editing/images/markdown-editor-yellow-preview.png)
 
+# LICENSE
+[MIT](LICENSE.txt)

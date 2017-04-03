@@ -13,3 +13,6 @@ A set of themes based on [equinusocio/material-theme](https://github.com/equinus
 ## Material Night Eighties
 
 ![](https://raw.githubusercontent.com/Microsoft/vscode-themes/master/material/images/material-night-eighties-preview.png)
+
+# LICENSE
+[MIT](LICENSE.txt)

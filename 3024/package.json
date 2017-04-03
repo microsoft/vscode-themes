@@ -2,7 +2,7 @@
 	"name": "Theme-3024Kit",
 	"displayName" : "3024 Theme Kit",
 	"description": "3024 Themes for VS Code based on the TextMate theme.",
-	"version": "0.1.1",
+	"version": "0.1.4",
 	"publisher": "ms-vscode",
 	"engines": {
 		"vscode": "0.10.x"

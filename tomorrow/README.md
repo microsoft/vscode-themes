@@ -17,3 +17,6 @@ A set of themes based on the tomorrow themes from [Colorsublime/Colorsublime-The
 ## Tomorrow Night Eighties
 
 ![](https://raw.githubusercontent.com/Microsoft/vscode-themes/master/tomorrow/images/tomorrow-night-eighties-preview.png)
+
+# LICENSE
+[MIT](LICENSE.txt)
