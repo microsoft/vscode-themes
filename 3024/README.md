@@ -9,3 +9,6 @@ A set of themes based on the 3024 themes from [Colorsublime/Colorsublime-Themes]
 ## 3024 Night
 
 ![](https://raw.githubusercontent.com/Microsoft/vscode-themes/master/3024/images/3024-night-preview.png)
+
+# LICENSE
+[MIT](LICENSE.txt)
