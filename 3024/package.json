@@ -19,7 +19,7 @@
 		"type": "git",
 		"url": "https://github.com/Microsoft/vscode-themes.git"
 	},
-	"icon":"icon.svg",
+	"icon":"icon.png",
 	"contributes": {
 		"themes": [
 			{
