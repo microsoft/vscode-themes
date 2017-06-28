@@ -76,21 +76,6 @@
         </dict>
         <dict>
             <key>name</key>
-            <string>Invalid - Illegal</string>
-            <key>scope</key>
-            <string>invalid.illegal</string>
-            <key>settings</key>
-            <dict>
-                <key>background</key>
-                <string>#06cdcd</string>
-                <key>fontStyle</key>
-                <string></string>
-                <key>foreground</key>
-                <string>#dd0000</string>
-            </dict>
-        </dict>
-        <dict>
-            <key>name</key>
             <string>Operators</string>
             <key>scope</key>
             <string>keyword.operator</string>
