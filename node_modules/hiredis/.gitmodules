@@ -1,0 +1,3 @@
+[submodule "deps/hiredis"]
+	path = deps/hiredis
+	url = git://github.com/redis/hiredis.git
