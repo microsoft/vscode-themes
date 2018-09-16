@@ -8,6 +8,10 @@ abs@^1.2.1:
   dependencies:
     ul "^5.0.0"
 
+ansi-font@0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/ansi-font/-/ansi-font-0.0.2.tgz#890301bd5841462fd39c0b7709afd1f525143331"
+
 async@~0.2.6:
   version "0.2.10"
   resolved "https://registry.yarnpkg.com/async/-/async-0.2.10.tgz#b6bbe0b0674b9d719708ca38de8c237cb526c3d1"
@@ -493,6 +497,12 @@ structure@^1.3.0:
   dependencies:
     joi "^10.2.0"
     lodash "^4.16.4"
+
+test@^0.6.0:
+  version "0.6.0"
+  resolved "https://registry.yarnpkg.com/test/-/test-0.6.0.tgz#5986ac445ec17754322512d104ba32c8a63e938e"
+  dependencies:
+    ansi-font "0.0.2"
 
 timed-out@^3.0.0:
   version "3.1.3"
