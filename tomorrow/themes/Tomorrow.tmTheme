@@ -8,8 +8,7 @@
 	<string>Tomorrow</string>
 	<key>settings</key>
 	<array>
-		<dict>
-			<key>settings</key>
+		<dict><key>settings</key>
 			<dict>
 				<key>background</key>
 				<string>#FFFFFF</string>
@@ -31,10 +30,7 @@
 			<key>scope</key>
 			<string>comment</string>
 			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#8E908C</string>
-			</dict>
+			<dict><key>foreground</key><string>#8E908C</string></dict>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -44,7 +40,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string>#666900</string>
 				<key>foreground</key>
 				<string>#666969</string>
 			</dict>
@@ -55,10 +51,7 @@
 			<key>scope</key>
 			<string>variable, support.other.variable, string.other.link, string.regexp, entity.name.tag, entity.other.attribute-name, meta.tag, declaration.tag</string>
 			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#C82829</string>
-			</dict>
+			<dict><key>foreground</key><string>#C82829</string></dict>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -68,7 +61,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string>#F58719</string>
 				<key>foreground</key>
 				<string>#F5871F</string>
 			</dict>
@@ -81,7 +74,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string>#C99E12</string>
 				<key>foreground</key>
 				<string>#C99E00</string>
 			</dict>
@@ -94,7 +87,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string>#C99E71</string>
 				<key>foreground</key>
 				<string>#718C00</string>
 			</dict>
@@ -105,10 +98,7 @@
 			<key>scope</key>
 			<string>keyword.operator, constant.other.color</string>
 			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#3E999F</string>
-			</dict>
+			<dict><key>foreground</key><string>#3E999F</string></dict>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -118,7 +108,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string>#C99E42</string>
 				<key>foreground</key>
 				<string>#4271AE</string>
 			</dict>
@@ -131,13 +121,13 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string>#C99E89</string>
 				<key>foreground</key>
 				<string>#8959A8</string>
 			</dict>
 		</dict>
 		<!-- No support for background, see https://github.com/Microsoft/vscode/issues/3429 -->
-		<!--<dict>
+		<dict>
 			<key>name</key>
 			<string>Invalid</string>
 			<key>scope</key>
@@ -147,11 +137,11 @@
 				<key>background</key>
 				<string>#C82829</string>
 				<key>fontStyle</key>
-				<string></string>
+				<string>#C99EFF</string>
 				<key>foreground</key>
 				<string>#FFFFFF</string>
 			</dict>
-		</dict>-->
+		</dict>
 		<dict>
 			<key>name</key>
 			<string>Separator</string>
@@ -166,7 +156,7 @@
 			</dict>
 		</dict>
 		<!-- No support for background, see https://github.com/Microsoft/vscode/issues/3429 -->
-		<!--<dict>
+		<dict>
 			<key>name</key>
 			<string>Deprecated</string>
 			<key>scope</key>
@@ -176,13 +166,11 @@
 				<key>background</key>
 				<string>#8959A8</string>
 				<key>fontStyle</key>
-				<string></string>
+				<string>#C99EEE</string>
 				<key>foreground</key>
 				<string>#FFFFFF</string>
 			</dict>
-		</dict>-->
-	</array>
-	<key>uuid</key>
-	<string>82CCD69C-F1B1-4529-B39E-780F91F07604</string>
+		</dict>
+	</array><key>uuid</key><string>82CCD69C-F1B1-4529-B39E-780F91F07604</string>
 </dict>
 </plist>

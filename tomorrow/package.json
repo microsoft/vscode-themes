@@ -4,12 +4,8 @@
 	"description": "Additional Tomorrow and Tomorrow Night themes for VS Code. Based on the TextMate themes.",
 	"version": "0.1.4",
 	"publisher": "ms-vscode",
-	"engines": {
-		"vscode": "0.10.x"
-	},
-	"categories": [
-		"Themes"
-	],
+	"engines": {		"vscode": "0.10.x"},
+	"categories": [	"Themes"],
 	"license": "SEE LICENSE IN LICENSE.txt",
 	"bugs": {
 		"url": "https://github.com/Microsoft/vscode-themes/issues"

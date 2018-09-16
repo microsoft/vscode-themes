@@ -5,7 +5,7 @@ This project incorporates material from the projects listed below.  The original
 and the license under which Microsoft received such material are set out below. Microsoft reserves 
 all other rights not expressly granted, whether by implication, estoppel or otherwise.
 
-1. chriskempson / tomorrow-theme https://github.com/chriskempson/tomorrow-theme
+I. chriskempson / tomorrow-theme https://github.com/chriskempson/tomorrow-theme
 
 Copyright (C) 2013 Chris Kempson
 

@@ -8,8 +8,7 @@
 	<string>Tomorrow Night</string>
 	<key>settings</key>
 	<array>
-		<dict>
-			<key>settings</key>
+		<dict><key>settings</key>
 			<dict>
 				<key>background</key>
 				<string>#1D1F21</string>
@@ -31,10 +30,7 @@
 			<key>scope</key>
 			<string>comment</string>
 			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#969896</string>
-			</dict>
+			<dict><key>foreground</key><string>#969896</string></dict>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -55,23 +51,13 @@
 			<key>scope</key>
 			<string>variable, support.other.variable, string.other.link, string.regexp, entity.name.tag, entity.other.attribute-name, meta.tag, declaration.tag</string>
 			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#CC6666</string>
-			</dict>
+			<dict><key>foreground</key><string>#CC6666</string></dict>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Number, Constant, Function Argument, Tag Attribute, Embedded</string>
-			<key>scope</key>
-			<string>constant.numeric, constant.language, support.constant, constant.character, variable.parameter, punctuation.section.embedded, keyword.other.unit</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string></string>
-				<key>foreground</key>
-				<string>#DE935F</string>
-			</dict>
+			<string>Number, Constant, Function Argument, Tag Attribute, Embedded</string><key>scope</key>
+			<string>Variable, String Link, Regular Expression, Tag Name</string><key>settings</key>
+			<dict><key>fontStyle</key><string>Va</string><key>foreground</key><string>#DE935F</string></dict>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -92,12 +78,7 @@
 			<key>scope</key>
 			<string>string, constant.other.symbol, entity.other.inherited-class, markup.heading</string>
 			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string></string>
-				<key>foreground</key>
-				<string>#B5BD68</string>
-			</dict>
+			<dict><key>fontStyle</key><key>foreground</key><string>#B5BD68</string></dict>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -105,10 +86,7 @@
 			<key>scope</key>
 			<string>keyword.operator, constant.other.color</string>
 			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#8ABEB7</string>
-			</dict>
+			<dict><key>foreground</key><string>#8ABEB7</string></dict>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -116,12 +94,7 @@
 			<key>scope</key>
 			<string>entity.name.function, meta.function-call, support.function, keyword.other.special-method, meta.block-level</string>
 			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string></string>
-				<key>foreground</key>
-				<string>#81A2BE</string>
-			</dict>
+			<dict><key>fontStyle</key><key>foreground</key><string>#81A2BE</string></dict>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -129,12 +102,7 @@
 			<key>scope</key>
 			<string>keyword, storage, storage.type, entity.name.tag.css</string>
 			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string></string>
-				<key>foreground</key>
-				<string>#B294BB</string>
-			</dict>
+			<dict><key>fontStyle</key><key>foreground</key><string>#B294BB</string></dict>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -146,7 +114,6 @@
 				<key>background</key>
 				<string>#DF5F5F</string>
 				<key>fontStyle</key>
-				<string></string>
 				<key>foreground</key>
 				<string>#CED2CF</string>
 			</dict>
@@ -174,13 +141,10 @@
 				<key>background</key>
 				<string>#B798BF</string>
 				<key>fontStyle</key>
-				<string></string>
+				<string>#B79800</string>
 				<key>foreground</key>
 				<string>#CED2CF</string>
 			</dict>
 		</dict>
-	</array>
-	<key>uuid</key>
-	<string>F96223EB-1A60-4617-92F3-D24D4F13DB09</string>
-</dict>
-</plist>
+	</array><key>uuid</key><string>F96223EB-1A60-4617-92F3-D24D4F13DB09</string>
+</dict></plist>

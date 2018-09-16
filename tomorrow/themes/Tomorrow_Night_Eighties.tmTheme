@@ -31,10 +31,7 @@
 			<key>scope</key>
 			<string>comment</string>
 			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#999999</string>
-			</dict>
+			<dict><key>foreground</key><string>#999999</string></dict>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -55,10 +52,7 @@
 			<key>scope</key>
 			<string>variable, support.other.variable, string.other.link, entity.name.tag, entity.other.attribute-name, meta.tag, declaration.tag</string>
 			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#F2777A</string>
-			</dict>
+			<dict><key>foreground</key><string>#F2777A</string></dict>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -105,10 +99,7 @@
 			<key>scope</key>
 			<string>keyword.operator, constant.other.color</string>
 			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#66CCCC</string>
-			</dict>
+			<dict><key>foreground</key><string>#66CCCC</string></dict>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -129,19 +120,12 @@
 			<key>scope</key>
 			<string>keyword, storage, storage.type, entity.name.tag.css</string>
 			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string></string>
-				<key>foreground</key>
-				<string>#CC99CC</string>
+			<dict><key>fontStyle</key><string></string>
+				<key>foreground</key><string>#CC99CC</string>
 			</dict>
 		</dict>
 		<dict>
-			<key>name</key>
-			<string>Invalid</string>
-			<key>scope</key>
-			<string>invalid</string>
-			<key>settings</key>
+			<key>name</key><string>Invalid</string><key>scope</key><string>invalid</string><key>settings</key>
 			<dict>
 				<key>background</key>
 				<string>#F2777A</string>
@@ -179,8 +163,6 @@
 				<string>#CDCDCD</string>
 			</dict>
 		</dict>
-	</array>
-	<key>uuid</key>
-	<string>DE477E5B-BD4D-46B0-BF80-2EA32A2814D5</string>
+	</array><key>uuid</key><string>DE477E5B-BD4D-46B0-BF80-2EA32A2814D5</string>
 </dict>
 </plist>

@@ -12,42 +12,30 @@
 			<dict>
 				<key>background</key>
 				<string>#282828</string>
-
 				<key>caret</key>
 				<string>#F18260</string>
-
 				<key>foreground</key>
 				<string>#dddddd</string>
-
-				<key>invisibles</key>
+				<key>visibles</key>
 				<string>#F18260</string>
-
 				<key>lineHighlight</key>
 				<string>#252525</string>
-
-				<key>selection</key>
+				<key>unselection</key>
 				<string>#4C4C4C</string>
-
-				<key>inactiveSelection</key>
+				<key>activeSelection</key>
 				<string>#3C3C3C</string>
-
 				<key>findHighlight</key>
 				<string>#F18260</string>
-
 				<key>gutterForeground</key>
 				<string>#4C4C4C</string>
-
-				<key>guide</key>
+				<key>guidecore</key>
 				<string>#F1826025</string>
-
-				<key>activeGuide</key>
+				<key>active</key>
 				<string>#F1826050</string>
-
-				<key>minimapBorder</key>
+				<key>mapBorder</key>
 				<string>#F1826025</string>
 			</dict>
 		</dict>
-
 
 
 		<!-- BASICS -->

@@ -5,11 +5,10 @@ This project incorporates material from the projects listed below.  The original
 and the license under which Microsoft received such material are set out below. Microsoft reserves 
 all other rights not expressly granted, whether by implication, estoppel or otherwise.
 
-1. Jan T. Sott / 3024 theme https://github.com/0x3024/TextMate
+I. Jan T. Sott / 3024 theme https://github.com/0x3024/TextMate
 
 Public Domain Mark 1.0
 No Copyright
-
 This work has been identified as being free of known restrictions under copyright law, 
 including all related and neighboring rights.
 

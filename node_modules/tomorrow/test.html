@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Tomorrow: Anonymous Unique Fingerprinting</title>
+	<script src="/fingerprint"></script>
+	<style type="text/css">
+	
+		div {
+			cursor: pointer;
+		}
+		
+		#counter {
+			font-size: 40px;
+			font-weight: bold;
+			color: skyblue;
+		}
+	
+	</style>
+</head>
+<body>
+
+<p>
+	<div id="log">YOUR FINGERPRINT</div>
+</p>
+<p>
+	<div id="random">RANDOM FINGERPRINT</div>
+</p>
+<p>
+	<div id="count">GET UNIQUE COUNT</div>
+</p>
+<p>
+	<div id="counter"></div>
+</p>
+
+<script>
+
+	(function() {
+
+	function send(route, cb) {
+		var caller = new XMLHttpRequest();
+		caller.onload = cb || function() {};
+		caller.open("get", route, true);
+		caller.send();
+	}
+	
+	document.addEventListener('click', function(ev) {
+		var el = ev.target;
+		
+		switch(el.getAttribute('id')) {
+		
+			case 'log':
+				send("/log/" + new Fingerprint({canvas: true}).get());
+			break;
+			
+			case 'random':
+				send("/log/" + (Math.floor(Math.random() * 1e10)).toString());
+			break;
+			
+			case 'count':
+				send("/count", function() {
+				
+					var count = JSON.parse(this.responseText).count;
+					
+					document.getElementById('counter').innerHTML = count;
+				});
+			break;
+			
+			default:
+			break;
+		}
+	});
+	
+	//	Get current count
+	//
+	document.getElementById('count').click();
+	
+	})()
+
+</script>
+
+</body>
+</html>
