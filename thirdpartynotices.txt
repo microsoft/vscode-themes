@@ -1,15 +1,13 @@
 THIRD-PARTY SOFTWARE NOTICES AND INFORMATION
 For Microsoft vscode-themes
- 
 This project incorporates material from the projects listed below.  The original copyright notice 
 and the license under which Microsoft received such material are set out below. Microsoft reserves 
 all other rights not expressly granted, whether by implication, estoppel or otherwise.
 
-1. SublimeText-Markdown / MarkdownEditing (https://github.com/SublimeText-Markdown/MarkdownEditing)
+I. SublimeText-Markdown / MarkdownEditing (https://github.com/SublimeText-Markdown/MarkdownEditing)
 
 The MIT License (MIT)
-Copyright (c) 2012 Brett Terpstra
-
+Copyright (c) 2018 Brett Terpstra
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -28,7 +26,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-2. jamiewilson / predawn https://github.com/jamiewilson/predawn
+II. jamiewilson / predawn https://github.com/jamiewilson/predawn
 
 The MIT License (MIT)
 
@@ -53,7 +51,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
-3. equinusocio / material-theme https://github.com/equinusocio/material-theme
+III. equinusocio / material-theme https://github.com/equinusocio/material-theme
 
 The MIT License (MIT)
 
@@ -77,7 +75,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-4. chriskempson / tomorrow-theme https://github.com/chriskempson/tomorrow-theme
+IV. chriskempson / tomorrow-theme https://github.com/chriskempson/tomorrow-theme
 
 Copyright (C) 2013 Chris Kempson
 
@@ -95,7 +93,7 @@ PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS 
 FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
 OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-5. Jan T. Sott / 3024 theme https://github.com/0x3024/TextMate
+V. Jan T. Sott / 3024 theme https://github.com/0x3024/TextMate
 
 Public Domain Mark 1.0
 No Copyright
@@ -116,7 +114,7 @@ Other Information
   about the work, and disclaims liability for all uses of the work, to the fullest extent permitted by applicable law.
 * When using or citing the work, you should not imply endorsement (http://creativecommons.org/publicdomain/mark/1.0/) by the author or the person who identified the work.
 
-6. Mark Herpich / 1337 theme https://github.com/MarkMichos/1337-Scheme
+VI. Mark Herpich / 1337 theme https://github.com/MarkMichos/1337-Scheme
 
 MIT License
 
