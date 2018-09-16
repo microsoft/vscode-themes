@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "description": "^0.0.4",
     "license": "^0.0.3",
     "name": "^0.0.2",
     "package.json": "^2.0.1",
