@@ -528,7 +528,7 @@ meta.property-value support.constant.named-color.css</string>
 				<key>background</key>
 				<string>#b83a42ff</string>
 				<key>foreground</key>
-				<string>#FFFFFF</string>
+				<string>#8796b0ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -554,7 +554,7 @@ meta.property-value support.constant.named-color.css</string>
 				<key>background</key>
 				<string>#b81511ff</string>
 				<key>foreground</key>
-				<string>#FFFFFF</string>
+				<string>#8796b0ff</string>
 			</dict>
 		</dict>
 		<dict>
